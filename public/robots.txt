@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.iepurasulbocanila.ro/sitemap.xml
+
+# Block access to source maps
+Disallow: /*.map$
